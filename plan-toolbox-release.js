@@ -5,6 +5,8 @@
 // @author       Paweł Mączałowski aka Pawloland
 // @match        https://plan.tl.krakow.pl/plan/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/Pawloland/ZSL-plan-toolbox/master/plan-toolbox-release.js
+// @downloadURL  https://raw.githubusercontent.com/Pawloland/ZSL-plan-toolbox/master/plan-toolbox-release.js
 // ==/UserScript==
 
 (function () {
