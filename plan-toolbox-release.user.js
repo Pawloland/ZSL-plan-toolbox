@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         ZSŁ plan toolbox
 // @version      1.0
-// @description  Dodaje przyciski,którymi można wybrać, które grupy mają być widoczne na planie lekcji.
+// @description  Dodaje przyciski, którymi można wybrać, które grupy mają być widoczne na planie lekcji.
 // @author       Paweł Mączałowski aka Pawloland
 // @match        https://plan.tl.krakow.pl/plan/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Pawloland/ZSL-plan-toolbox/master/plan-toolbox-release.js
-// @downloadURL  https://raw.githubusercontent.com/Pawloland/ZSL-plan-toolbox/master/plan-toolbox-release.js
+// @updateURL    https://raw.githubusercontent.com/Pawloland/ZSL-plan-toolbox/master/plan-toolbox-release.user.js
+// @downloadURL  https://raw.githubusercontent.com/Pawloland/ZSL-plan-toolbox/master/plan-toolbox-release.user.js
 // ==/UserScript==
 
 (function () {
